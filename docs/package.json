@@ -10,7 +10,7 @@
     "codecov": "codecov -F docs"
   },
   "devDependencies": {
-    "codecov": "^3.0.0",
+    "codecov": "^3.7.1",
     "eslint": "^4.10.0",
     "jasmine": "^2.8.0",
     "karma": "^1.7.1",
